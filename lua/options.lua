@@ -71,4 +71,7 @@ vim.o.scrolloff = 10
 -- See `:help 'confirm'`
 vim.o.confirm = true
 
+-- Background
+vim.o.background = 'dark'
+
 -- vim: ts=2 sts=2 sw=2 et
